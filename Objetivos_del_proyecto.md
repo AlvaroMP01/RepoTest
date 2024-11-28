@@ -14,10 +14,10 @@
 - **Diferencias:** La IT se centra en la gestión de información, mientras que OT está más relacionada con operan físicamente las instalaciones.
 ## **4. Analizar los departamentos clave dentro de un entorno IT.**
 - **Para un gimnasio, los departamentos clave serían:**
-  1. **Tecnología y soporte:** Gestión de sistemas de reserva y apps.
-  2. **Marketing digital:** Creación de campañas en redes sociales y análisis de datos.
-  3. **Atención al cliente digital:** Uso de chatbots o sistemas de tickets para resolver consultas rápidamente.
-  4. **Operaciones:** Integración de herramientas IT para coordinar horarios, clases, etc.
+  - **Tecnología y soporte:** Gestión de sistemas de reserva y apps.
+  - **Marketing digital:** Creación de campañas en redes sociales y análisis de datos.
+  - **Atención al cliente digital:** Uso de chatbots o sistemas de tickets para resolver consultas rápidamente.
+  - **Operaciones:** Integración de herramientas IT para coordinar horarios, clases, etc.
 ## **5. Seleccionar tecnologías clave para la digitalización en los ámbitos de planta y negocio.**
 - **Planta:**
   - Sensores IoT para medir ocupación o temperatura en el gimnasio.

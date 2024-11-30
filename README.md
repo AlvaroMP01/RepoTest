@@ -11,8 +11,6 @@
 ```
 
 ## Impacto de la digitalización y la transformación digital a las empresas
-
-```text
     - La digitalización y la transformación digital están revolucionando la
         industria, permitiendo a las empresas ser más eficientes, innovadoras y
         competitivas. La adopción de estas tecnologías permite a las empresas tomar
@@ -20,4 +18,3 @@
         del cliente.
     - La automatización de procesos, el análisis de datos y la innovación son claves
         para el éxito en el entorno industrial actual.
-```

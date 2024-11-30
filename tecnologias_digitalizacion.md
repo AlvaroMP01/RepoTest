@@ -3,11 +3,11 @@
 ## **1. Internet de las Cosas (IoT):**
 - **Uso en planta:**
   - **Sensores de ocupación:** Para medir en tiempo real cuántas personas están en el gimnasio, optimizando horarios y recursos.
-  - **Máquinas inteligentes:** Equipos de cardio y fuerza que se conectan a aplicaciones para registrar métricas como calorías, tiempo de uso y progreso del cliente.
+  - **Máquinas inteligentes:** Equipos de cardio y fuerza que se conectan a aplicaciones para registrar cosas como calorías, tiempo de uso y progreso del cliente.
 
 ## **2. Automatización:**
 - **En planta:**
-  - **Control de acceso automatizado:** Uso de tarjetas RFID, códigos QR o reconocimiento facial para permitir la entrada a las instalaciones sin intervención humana.
+  - **Control de acceso automatizado:** Uso de ódigos QR  para permitir la entrada a las instalaciones.
   - **Climatización inteligente:** Sistemas que ajustan la temperatura y ventilación según la cantidad de personas presentes.
 - **En negocio:**
   - **Facturación automática:** Pagos recurrentes automatizados para membresías.
@@ -21,12 +21,12 @@
 
 #### **4. Gemelos Digitales:**
 - **Uso en planta:**
-  - Modelado virtual de las instalaciones del gimnasio para prever flujos de ocupación, desgaste de equipos y simulación de renovaciones.
+  - Modelado virtual de las instalaciones del gimnasio para prever flujos de ocupación y desgaste de equipos.
 
 #### **5. Aplicaciones Móviles y Plataformas Digitales:**
 - **Uso en negocio y experiencia del cliente:**
   - Apps para gestionar reservas de clases, ver el progreso de entrenamiento y recibir planes personalizados.
-  - Portal web para inscripciones, pagos y atención al cliente.
+  - Página web para inscripciones, pagos y atención al cliente.
 
 #### **6. Realidad Virtual y Realidad Aumentada (RV/RA):**
 - **Uso en planta:**

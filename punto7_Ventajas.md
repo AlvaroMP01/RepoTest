@@ -12,7 +12,9 @@
 ## Mejora de la eficiencia operativa y optimización de recursos
 
 ```text
-- La idea de poder tener una aplicación para nuestra empresa, es que los usuarios puedan registrase de una manera más sencilla y rápida, ayudandonos a una mejor gestión de los datos que tenemos, haciendo así más fácil la gestión de cualquier incidencia que pueda ocurrir, y al tener todo mejor organizado, es más optimo para cualquier busqueda de datos que podamos hacer a futúro.
+- La idea de poder tener una aplicación para nuestra empresa, es que los usuarios puedan registrase de una manera más sencilla y rápida, ayudandonos a una mejor gestión de los datos que tenemos,
+haciendo así más fácil la gestión de cualquier incidencia que pueda ocurrir, y al tener todo mejor organizado, es más optimo para cualquier busqueda de datos que podamos hacer a futúro.
+
     - Automatización de procesos:
         - Gestión de suscripciones y membresías: Digitalizar la gestión de inscripciones, pagos
             renovación y cancelación de membresías. Esto agiliza los procesos.

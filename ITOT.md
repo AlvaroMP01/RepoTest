@@ -1,4 +1,4 @@
-##Nuestro gimnasio IT/OT
+##Nuestro gimnasio IT/OT##
 
 En el proyecto de digitalización del gimnasio, la comparación entre los entornos con **Tecnología de la Información** y **Tecnología Operacional** es esencial para entender cómo estos sistemas trabajan juntos para optimizar las operaciones y mejorar la experiencia de los usuarios.
 

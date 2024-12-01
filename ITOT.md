@@ -7,5 +7,3 @@ Ambos entornos, aunque tradicionalmente separados, convergen en este proyecto pa
 La principal diferencia entre IT y OT radica en sus prioridades. Mientras IT se centra en la seguridad de los datos y la flexibilidad para actualizar sistemas, OT prioriza la continuidad operativa y la seguridad física, dado que una interrupción en estos sistemas puede afectar directamente las operaciones del gimnasio. Sin embargo, ambos comparten el objetivo común de garantizar un funcionamiento eficiente y seguro.
 
 La convergencia entre IT y OT es fundamental en un gimnasio digitalizado, ya que permite integrar la gestión digital con el control físico de las instalaciones. Esto no solo mejora la operatividad diaria, sino que también prepara al negocio para futuras innovaciones, como el análisis predictivo de uso o la incorporación de nuevas tecnologías inteligentes.
-
-![Texto error](imagenes\ITOT.jpg)
